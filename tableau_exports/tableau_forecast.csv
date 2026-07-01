@@ -1,0 +1,151 @@
+station_id,station_name,forecast_date,forecasted_sessions_arima,model,forecasted_sessions_prophet,lower_bound,upper_bound,ensemble,model_type
+ST001,Downtown Hub,2024-12-02,93.4,"SARIMA(1,1,1)(1,1,1)[7]",91.42,87.69,94.91,92.4,Forecast
+ST001,Downtown Hub,2024-12-03,93.4,"SARIMA(1,1,1)(1,1,1)[7]",90.88,87.4,94.55,92.1,Forecast
+ST001,Downtown Hub,2024-12-04,94.0,"SARIMA(1,1,1)(1,1,1)[7]",91.06,87.27,94.55,92.5,Forecast
+ST001,Downtown Hub,2024-12-05,94.1,"SARIMA(1,1,1)(1,1,1)[7]",91.22,87.99,94.48,92.7,Forecast
+ST001,Downtown Hub,2024-12-06,93.7,"SARIMA(1,1,1)(1,1,1)[7]",90.77,87.45,94.11,92.2,Forecast
+ST001,Downtown Hub,2024-12-07,76.8,"SARIMA(1,1,1)(1,1,1)[7]",71.26,67.99,74.66,74.0,Forecast
+ST001,Downtown Hub,2024-12-08,77.0,"SARIMA(1,1,1)(1,1,1)[7]",70.94,67.81,74.46,74.0,Forecast
+ST001,Downtown Hub,2024-12-09,93.6,"SARIMA(1,1,1)(1,1,1)[7]",90.13,86.65,93.76,91.9,Forecast
+ST001,Downtown Hub,2024-12-10,93.5,"SARIMA(1,1,1)(1,1,1)[7]",89.4,85.8,92.87,91.4,Forecast
+ST001,Downtown Hub,2024-12-11,94.0,"SARIMA(1,1,1)(1,1,1)[7]",90.2,86.63,94.05,92.1,Forecast
+ST001,Downtown Hub,2024-12-12,94.2,"SARIMA(1,1,1)(1,1,1)[7]",90.1,86.58,93.54,92.2,Forecast
+ST001,Downtown Hub,2024-12-13,93.8,"SARIMA(1,1,1)(1,1,1)[7]",89.98,86.47,93.61,91.9,Forecast
+ST001,Downtown Hub,2024-12-14,76.9,"SARIMA(1,1,1)(1,1,1)[7]",70.85,67.45,74.43,73.9,Forecast
+ST001,Downtown Hub,2024-12-15,77.1,"SARIMA(1,1,1)(1,1,1)[7]",69.87,65.92,73.34,73.5,Forecast
+ST001,Downtown Hub,2024-12-16,93.7,"SARIMA(1,1,1)(1,1,1)[7]",90.61,87.11,94.16,92.2,Forecast
+ST001,Downtown Hub,2024-12-17,93.6,"SARIMA(1,1,1)(1,1,1)[7]",89.8,86.55,93.24,91.7,Forecast
+ST001,Downtown Hub,2024-12-18,94.1,"SARIMA(1,1,1)(1,1,1)[7]",91.83,88.12,95.11,93.0,Forecast
+ST001,Downtown Hub,2024-12-19,94.3,"SARIMA(1,1,1)(1,1,1)[7]",91.44,87.93,95.07,92.9,Forecast
+ST001,Downtown Hub,2024-12-20,93.9,"SARIMA(1,1,1)(1,1,1)[7]",92.35,88.83,95.61,93.1,Forecast
+ST001,Downtown Hub,2024-12-21,76.9,"SARIMA(1,1,1)(1,1,1)[7]",73.98,70.5,77.36,75.4,Forecast
+ST001,Downtown Hub,2024-12-22,77.2,"SARIMA(1,1,1)(1,1,1)[7]",75.28,71.75,78.86,76.2,Forecast
+ST001,Downtown Hub,2024-12-23,93.8,"SARIMA(1,1,1)(1,1,1)[7]",94.7,91.18,98.2,94.2,Forecast
+ST001,Downtown Hub,2024-12-24,93.7,"SARIMA(1,1,1)(1,1,1)[7]",94.56,90.96,98.15,94.1,Forecast
+ST001,Downtown Hub,2024-12-25,94.2,"SARIMA(1,1,1)(1,1,1)[7]",96.56,93.2,100.21,95.4,Forecast
+ST001,Downtown Hub,2024-12-26,94.4,"SARIMA(1,1,1)(1,1,1)[7]",96.98,93.36,100.45,95.7,Forecast
+ST001,Downtown Hub,2024-12-27,94.0,"SARIMA(1,1,1)(1,1,1)[7]",98.17,94.64,101.88,96.1,Forecast
+ST001,Downtown Hub,2024-12-28,77.0,"SARIMA(1,1,1)(1,1,1)[7]",79.36,75.8,82.7,78.2,Forecast
+ST001,Downtown Hub,2024-12-29,77.3,"SARIMA(1,1,1)(1,1,1)[7]",80.04,76.6,83.51,78.7,Forecast
+ST001,Downtown Hub,2024-12-30,93.9,"SARIMA(1,1,1)(1,1,1)[7]",100.81,97.36,104.51,97.4,Forecast
+ST001,Downtown Hub,2024-12-31,93.7,"SARIMA(1,1,1)(1,1,1)[7]",99.12,95.87,102.84,96.4,Forecast
+ST002,Airport Terminal,2024-12-02,162.1,"SARIMA(1,1,1)(1,1,1)[7]",162.35,158.14,166.12,162.2,Forecast
+ST002,Airport Terminal,2024-12-03,162.1,"SARIMA(1,1,1)(1,1,1)[7]",162.27,158.53,166.13,162.2,Forecast
+ST002,Airport Terminal,2024-12-04,162.9,"SARIMA(1,1,1)(1,1,1)[7]",162.18,158.2,166.28,162.5,Forecast
+ST002,Airport Terminal,2024-12-05,162.8,"SARIMA(1,1,1)(1,1,1)[7]",161.55,157.72,165.94,162.2,Forecast
+ST002,Airport Terminal,2024-12-06,160.8,"SARIMA(1,1,1)(1,1,1)[7]",161.13,157.23,165.09,161.0,Forecast
+ST002,Airport Terminal,2024-12-07,138.9,"SARIMA(1,1,1)(1,1,1)[7]",135.79,131.72,139.82,137.3,Forecast
+ST002,Airport Terminal,2024-12-08,139.9,"SARIMA(1,1,1)(1,1,1)[7]",135.03,131.14,139.26,137.5,Forecast
+ST002,Airport Terminal,2024-12-09,161.7,"SARIMA(1,1,1)(1,1,1)[7]",161.36,157.09,165.34,161.5,Forecast
+ST002,Airport Terminal,2024-12-10,161.8,"SARIMA(1,1,1)(1,1,1)[7]",161.05,157.14,164.63,161.4,Forecast
+ST002,Airport Terminal,2024-12-11,162.5,"SARIMA(1,1,1)(1,1,1)[7]",161.54,157.64,165.53,162.0,Forecast
+ST002,Airport Terminal,2024-12-12,162.4,"SARIMA(1,1,1)(1,1,1)[7]",160.56,156.63,164.33,161.5,Forecast
+ST002,Airport Terminal,2024-12-13,160.4,"SARIMA(1,1,1)(1,1,1)[7]",160.53,156.56,164.32,160.5,Forecast
+ST002,Airport Terminal,2024-12-14,138.6,"SARIMA(1,1,1)(1,1,1)[7]",135.59,131.46,139.51,137.1,Forecast
+ST002,Airport Terminal,2024-12-15,139.5,"SARIMA(1,1,1)(1,1,1)[7]",133.87,129.75,137.9,136.7,Forecast
+ST002,Airport Terminal,2024-12-16,161.4,"SARIMA(1,1,1)(1,1,1)[7]",162.02,157.86,165.9,161.7,Forecast
+ST002,Airport Terminal,2024-12-17,161.4,"SARIMA(1,1,1)(1,1,1)[7]",161.46,157.52,165.42,161.4,Forecast
+ST002,Airport Terminal,2024-12-18,162.2,"SARIMA(1,1,1)(1,1,1)[7]",163.3,159.28,167.02,162.8,Forecast
+ST002,Airport Terminal,2024-12-19,162.1,"SARIMA(1,1,1)(1,1,1)[7]",162.15,158.3,166.22,162.1,Forecast
+ST002,Airport Terminal,2024-12-20,160.0,"SARIMA(1,1,1)(1,1,1)[7]",163.01,159.28,166.99,161.5,Forecast
+ST002,Airport Terminal,2024-12-21,138.2,"SARIMA(1,1,1)(1,1,1)[7]",138.91,134.84,142.79,138.6,Forecast
+ST002,Airport Terminal,2024-12-22,139.2,"SARIMA(1,1,1)(1,1,1)[7]",139.87,135.81,143.77,139.5,Forecast
+ST002,Airport Terminal,2024-12-23,161.0,"SARIMA(1,1,1)(1,1,1)[7]",166.46,162.35,170.58,163.7,Forecast
+ST002,Airport Terminal,2024-12-24,161.0,"SARIMA(1,1,1)(1,1,1)[7]",166.82,162.79,170.99,163.9,Forecast
+ST002,Airport Terminal,2024-12-25,161.8,"SARIMA(1,1,1)(1,1,1)[7]",168.59,164.73,173.0,165.2,Forecast
+ST002,Airport Terminal,2024-12-26,161.7,"SARIMA(1,1,1)(1,1,1)[7]",168.49,164.73,172.45,165.1,Forecast
+ST002,Airport Terminal,2024-12-27,159.7,"SARIMA(1,1,1)(1,1,1)[7]",169.72,165.75,173.93,164.7,Forecast
+ST002,Airport Terminal,2024-12-28,137.8,"SARIMA(1,1,1)(1,1,1)[7]",145.22,141.1,149.24,141.5,Forecast
+ST002,Airport Terminal,2024-12-29,138.8,"SARIMA(1,1,1)(1,1,1)[7]",145.68,141.74,149.67,142.2,Forecast
+ST002,Airport Terminal,2024-12-30,160.6,"SARIMA(1,1,1)(1,1,1)[7]",173.65,169.58,177.46,167.1,Forecast
+ST002,Airport Terminal,2024-12-31,160.7,"SARIMA(1,1,1)(1,1,1)[7]",171.71,167.78,175.48,166.2,Forecast
+ST003,Tech Park East,2024-12-02,56.3,"SARIMA(1,1,1)(1,1,1)[7]",55.54,52.01,59.21,55.9,Forecast
+ST003,Tech Park East,2024-12-03,56.1,"SARIMA(1,1,1)(1,1,1)[7]",55.87,52.11,59.18,56.0,Forecast
+ST003,Tech Park East,2024-12-04,56.8,"SARIMA(1,1,1)(1,1,1)[7]",56.0,52.58,59.31,56.4,Forecast
+ST003,Tech Park East,2024-12-05,56.5,"SARIMA(1,1,1)(1,1,1)[7]",55.89,52.21,59.38,56.2,Forecast
+ST003,Tech Park East,2024-12-06,56.2,"SARIMA(1,1,1)(1,1,1)[7]",55.74,52.52,59.05,56.0,Forecast
+ST003,Tech Park East,2024-12-07,45.0,"SARIMA(1,1,1)(1,1,1)[7]",42.99,39.55,46.42,44.0,Forecast
+ST003,Tech Park East,2024-12-08,44.6,"SARIMA(1,1,1)(1,1,1)[7]",42.26,38.91,45.37,43.4,Forecast
+ST003,Tech Park East,2024-12-09,56.3,"SARIMA(1,1,1)(1,1,1)[7]",55.49,51.82,58.89,55.9,Forecast
+ST003,Tech Park East,2024-12-10,56.1,"SARIMA(1,1,1)(1,1,1)[7]",55.64,52.31,59.01,55.9,Forecast
+ST003,Tech Park East,2024-12-11,56.8,"SARIMA(1,1,1)(1,1,1)[7]",56.04,52.41,59.44,56.4,Forecast
+ST003,Tech Park East,2024-12-12,56.5,"SARIMA(1,1,1)(1,1,1)[7]",55.6,52.34,58.93,56.0,Forecast
+ST003,Tech Park East,2024-12-13,56.2,"SARIMA(1,1,1)(1,1,1)[7]",55.48,52.13,58.65,55.8,Forecast
+ST003,Tech Park East,2024-12-14,45.0,"SARIMA(1,1,1)(1,1,1)[7]",43.09,39.45,46.58,44.0,Forecast
+ST003,Tech Park East,2024-12-15,44.6,"SARIMA(1,1,1)(1,1,1)[7]",42.3,38.96,45.76,43.4,Forecast
+ST003,Tech Park East,2024-12-16,56.3,"SARIMA(1,1,1)(1,1,1)[7]",55.75,52.19,59.08,56.0,Forecast
+ST003,Tech Park East,2024-12-17,56.1,"SARIMA(1,1,1)(1,1,1)[7]",55.93,52.58,59.53,56.0,Forecast
+ST003,Tech Park East,2024-12-18,56.8,"SARIMA(1,1,1)(1,1,1)[7]",56.9,53.5,60.63,56.8,Forecast
+ST003,Tech Park East,2024-12-19,56.5,"SARIMA(1,1,1)(1,1,1)[7]",56.5,53.38,60.1,56.5,Forecast
+ST003,Tech Park East,2024-12-20,56.2,"SARIMA(1,1,1)(1,1,1)[7]",56.67,53.36,59.93,56.4,Forecast
+ST003,Tech Park East,2024-12-21,45.0,"SARIMA(1,1,1)(1,1,1)[7]",44.12,40.63,47.46,44.6,Forecast
+ST003,Tech Park East,2024-12-22,44.6,"SARIMA(1,1,1)(1,1,1)[7]",44.28,40.84,47.62,44.4,Forecast
+ST003,Tech Park East,2024-12-23,56.3,"SARIMA(1,1,1)(1,1,1)[7]",57.46,53.99,60.88,56.9,Forecast
+ST003,Tech Park East,2024-12-24,56.1,"SARIMA(1,1,1)(1,1,1)[7]",57.76,54.23,61.23,56.9,Forecast
+ST003,Tech Park East,2024-12-25,56.8,"SARIMA(1,1,1)(1,1,1)[7]",58.62,55.28,62.2,57.7,Forecast
+ST003,Tech Park East,2024-12-26,56.6,"SARIMA(1,1,1)(1,1,1)[7]",58.8,55.48,61.93,57.7,Forecast
+ST003,Tech Park East,2024-12-27,56.2,"SARIMA(1,1,1)(1,1,1)[7]",59.21,55.85,62.64,57.7,Forecast
+ST003,Tech Park East,2024-12-28,45.1,"SARIMA(1,1,1)(1,1,1)[7]",46.58,43.52,50.18,45.8,Forecast
+ST003,Tech Park East,2024-12-29,44.7,"SARIMA(1,1,1)(1,1,1)[7]",46.61,43.28,49.93,45.7,Forecast
+ST003,Tech Park East,2024-12-30,56.3,"SARIMA(1,1,1)(1,1,1)[7]",60.41,57.04,63.95,58.4,Forecast
+ST003,Tech Park East,2024-12-31,56.2,"SARIMA(1,1,1)(1,1,1)[7]",56.64,52.94,59.96,56.4,Forecast
+ST004,Shopping Mall North,2024-12-02,128.7,"SARIMA(1,1,1)(1,1,1)[7]",126.13,122.25,130.04,127.4,Forecast
+ST004,Shopping Mall North,2024-12-03,127.8,"SARIMA(1,1,1)(1,1,1)[7]",125.19,121.34,128.79,126.5,Forecast
+ST004,Shopping Mall North,2024-12-04,128.9,"SARIMA(1,1,1)(1,1,1)[7]",125.43,121.47,129.23,127.2,Forecast
+ST004,Shopping Mall North,2024-12-05,128.6,"SARIMA(1,1,1)(1,1,1)[7]",124.96,121.25,128.71,126.8,Forecast
+ST004,Shopping Mall North,2024-12-06,128.9,"SARIMA(1,1,1)(1,1,1)[7]",125.18,121.23,128.98,127.0,Forecast
+ST004,Shopping Mall North,2024-12-07,109.4,"SARIMA(1,1,1)(1,1,1)[7]",101.52,97.89,105.22,105.5,Forecast
+ST004,Shopping Mall North,2024-12-08,108.5,"SARIMA(1,1,1)(1,1,1)[7]",101.13,97.41,104.89,104.8,Forecast
+ST004,Shopping Mall North,2024-12-09,128.5,"SARIMA(1,1,1)(1,1,1)[7]",124.27,120.58,128.05,126.4,Forecast
+ST004,Shopping Mall North,2024-12-10,127.7,"SARIMA(1,1,1)(1,1,1)[7]",123.05,119.5,126.84,125.4,Forecast
+ST004,Shopping Mall North,2024-12-11,128.8,"SARIMA(1,1,1)(1,1,1)[7]",123.89,120.34,127.65,126.3,Forecast
+ST004,Shopping Mall North,2024-12-12,128.5,"SARIMA(1,1,1)(1,1,1)[7]",123.06,119.43,126.91,125.8,Forecast
+ST004,Shopping Mall North,2024-12-13,128.9,"SARIMA(1,1,1)(1,1,1)[7]",123.5,119.77,127.4,126.2,Forecast
+ST004,Shopping Mall North,2024-12-14,109.3,"SARIMA(1,1,1)(1,1,1)[7]",100.21,96.34,103.89,104.8,Forecast
+ST004,Shopping Mall North,2024-12-15,108.4,"SARIMA(1,1,1)(1,1,1)[7]",99.31,95.54,103.46,103.9,Forecast
+ST004,Shopping Mall North,2024-12-16,128.4,"SARIMA(1,1,1)(1,1,1)[7]",123.77,119.74,127.24,126.1,Forecast
+ST004,Shopping Mall North,2024-12-17,127.7,"SARIMA(1,1,1)(1,1,1)[7]",122.53,119.07,125.97,125.1,Forecast
+ST004,Shopping Mall North,2024-12-18,128.7,"SARIMA(1,1,1)(1,1,1)[7]",124.59,121.15,128.35,126.6,Forecast
+ST004,Shopping Mall North,2024-12-19,128.4,"SARIMA(1,1,1)(1,1,1)[7]",123.44,119.74,127.26,125.9,Forecast
+ST004,Shopping Mall North,2024-12-20,128.8,"SARIMA(1,1,1)(1,1,1)[7]",125.0,121.15,128.74,126.9,Forecast
+ST004,Shopping Mall North,2024-12-21,109.3,"SARIMA(1,1,1)(1,1,1)[7]",102.38,98.42,106.38,105.8,Forecast
+ST004,Shopping Mall North,2024-12-22,108.3,"SARIMA(1,1,1)(1,1,1)[7]",103.69,100.06,107.69,106.0,Forecast
+ST004,Shopping Mall North,2024-12-23,128.4,"SARIMA(1,1,1)(1,1,1)[7]",127.04,123.44,130.56,127.7,Forecast
+ST004,Shopping Mall North,2024-12-24,127.6,"SARIMA(1,1,1)(1,1,1)[7]",126.41,122.64,130.19,127.0,Forecast
+ST004,Shopping Mall North,2024-12-25,128.7,"SARIMA(1,1,1)(1,1,1)[7]",128.55,124.66,132.34,128.6,Forecast
+ST004,Shopping Mall North,2024-12-26,128.4,"SARIMA(1,1,1)(1,1,1)[7]",128.29,124.59,132.15,128.3,Forecast
+ST004,Shopping Mall North,2024-12-27,128.7,"SARIMA(1,1,1)(1,1,1)[7]",130.27,126.48,134.52,129.5,Forecast
+ST004,Shopping Mall North,2024-12-28,109.2,"SARIMA(1,1,1)(1,1,1)[7]",107.33,103.52,111.2,108.3,Forecast
+ST004,Shopping Mall North,2024-12-29,108.3,"SARIMA(1,1,1)(1,1,1)[7]",108.14,104.21,112.12,108.2,Forecast
+ST004,Shopping Mall North,2024-12-30,128.3,"SARIMA(1,1,1)(1,1,1)[7]",133.04,129.07,136.95,130.7,Forecast
+ST004,Shopping Mall North,2024-12-31,127.5,"SARIMA(1,1,1)(1,1,1)[7]",130.48,126.64,134.37,129.0,Forecast
+ST005,Residential Zone A,2024-12-02,20.8,"SARIMA(1,1,1)(1,1,1)[7]",20.03,16.86,22.97,20.4,Forecast
+ST005,Residential Zone A,2024-12-03,21.1,"SARIMA(1,1,1)(1,1,1)[7]",20.4,17.19,23.3,20.8,Forecast
+ST005,Residential Zone A,2024-12-04,22.0,"SARIMA(1,1,1)(1,1,1)[7]",20.42,17.43,23.64,21.2,Forecast
+ST005,Residential Zone A,2024-12-05,21.2,"SARIMA(1,1,1)(1,1,1)[7]",19.83,16.95,22.83,20.5,Forecast
+ST005,Residential Zone A,2024-12-06,21.6,"SARIMA(1,1,1)(1,1,1)[7]",20.5,17.53,23.53,21.0,Forecast
+ST005,Residential Zone A,2024-12-07,17.2,"SARIMA(1,1,1)(1,1,1)[7]",15.26,12.21,18.03,16.2,Forecast
+ST005,Residential Zone A,2024-12-08,16.6,"SARIMA(1,1,1)(1,1,1)[7]",14.82,11.85,17.57,15.7,Forecast
+ST005,Residential Zone A,2024-12-09,20.9,"SARIMA(1,1,1)(1,1,1)[7]",19.98,16.89,22.68,20.4,Forecast
+ST005,Residential Zone A,2024-12-10,21.1,"SARIMA(1,1,1)(1,1,1)[7]",20.3,17.18,23.5,20.7,Forecast
+ST005,Residential Zone A,2024-12-11,22.0,"SARIMA(1,1,1)(1,1,1)[7]",20.44,17.51,23.56,21.2,Forecast
+ST005,Residential Zone A,2024-12-12,21.2,"SARIMA(1,1,1)(1,1,1)[7]",19.65,16.58,22.68,20.4,Forecast
+ST005,Residential Zone A,2024-12-13,21.6,"SARIMA(1,1,1)(1,1,1)[7]",20.34,17.48,23.64,21.0,Forecast
+ST005,Residential Zone A,2024-12-14,17.2,"SARIMA(1,1,1)(1,1,1)[7]",15.46,12.54,18.21,16.3,Forecast
+ST005,Residential Zone A,2024-12-15,16.6,"SARIMA(1,1,1)(1,1,1)[7]",15.18,12.4,18.27,15.9,Forecast
+ST005,Residential Zone A,2024-12-16,20.9,"SARIMA(1,1,1)(1,1,1)[7]",20.16,17.31,23.17,20.5,Forecast
+ST005,Residential Zone A,2024-12-17,21.1,"SARIMA(1,1,1)(1,1,1)[7]",20.55,17.46,23.48,20.8,Forecast
+ST005,Residential Zone A,2024-12-18,22.0,"SARIMA(1,1,1)(1,1,1)[7]",20.94,17.91,24.11,21.5,Forecast
+ST005,Residential Zone A,2024-12-19,21.2,"SARIMA(1,1,1)(1,1,1)[7]",20.38,17.36,23.36,20.8,Forecast
+ST005,Residential Zone A,2024-12-20,21.6,"SARIMA(1,1,1)(1,1,1)[7]",21.0,18.3,23.77,21.3,Forecast
+ST005,Residential Zone A,2024-12-21,17.2,"SARIMA(1,1,1)(1,1,1)[7]",15.71,12.51,18.66,16.5,Forecast
+ST005,Residential Zone A,2024-12-22,16.6,"SARIMA(1,1,1)(1,1,1)[7]",15.76,12.78,18.86,16.2,Forecast
+ST005,Residential Zone A,2024-12-23,20.9,"SARIMA(1,1,1)(1,1,1)[7]",20.81,17.78,23.81,20.9,Forecast
+ST005,Residential Zone A,2024-12-24,21.1,"SARIMA(1,1,1)(1,1,1)[7]",21.15,18.25,24.22,21.1,Forecast
+ST005,Residential Zone A,2024-12-25,22.0,"SARIMA(1,1,1)(1,1,1)[7]",21.37,18.54,24.19,21.7,Forecast
+ST005,Residential Zone A,2024-12-26,21.2,"SARIMA(1,1,1)(1,1,1)[7]",21.15,18.34,24.18,21.2,Forecast
+ST005,Residential Zone A,2024-12-27,21.6,"SARIMA(1,1,1)(1,1,1)[7]",21.88,18.81,24.93,21.7,Forecast
+ST005,Residential Zone A,2024-12-28,17.2,"SARIMA(1,1,1)(1,1,1)[7]",16.61,13.7,19.55,16.9,Forecast
+ST005,Residential Zone A,2024-12-29,16.6,"SARIMA(1,1,1)(1,1,1)[7]",16.67,14.13,19.46,16.6,Forecast
+ST005,Residential Zone A,2024-12-30,20.9,"SARIMA(1,1,1)(1,1,1)[7]",21.8,18.86,24.84,21.4,Forecast
+ST005,Residential Zone A,2024-12-31,21.1,"SARIMA(1,1,1)(1,1,1)[7]",17.94,15.06,20.99,19.5,Forecast

@@ -1,0 +1,11 @@
+station_name,hour,avg_demand,avg_avail_pct,avg_temp,recommendation,city
+MG Road Station,3,0.57,94.3,12.2,⭐ Best slot,Bangalore
+Whitefield EV Point,0,0.68,94.3,10.0,✅ Good slot,Bangalore
+MG Road Station,0,0.58,94.2,14.8,✅ Good slot,Bangalore
+Koramangala Hub,5,0.46,94.2,8.8,✅ Good slot,Bangalore
+Whitefield EV Point,2,0.71,94.1,11.1,✅ Good slot,Bangalore
+T Nagar Charging Hub,1,0.47,94.7,9.6,⭐ Best slot,Chennai
+T Nagar Charging Hub,2,0.47,94.7,7.0,✅ Good slot,Chennai
+T Nagar Charging Hub,5,0.5,94.5,15.2,✅ Good slot,Chennai
+Anna Nagar Station,2,0.35,94.2,12.5,✅ Good slot,Chennai
+Anna Nagar Station,0,0.35,94.2,10.2,✅ Good slot,Chennai

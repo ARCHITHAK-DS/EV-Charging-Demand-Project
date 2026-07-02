@@ -12,7 +12,7 @@
 
 <br/>
 
-### 🌐 [Live Tableau Dashboard →](https://public.tableau.com/views/EVChargingDemandForecastingTableaudashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) &nbsp;·&nbsp; 📓 [View Notebook →](#) &nbsp;·&nbsp; 📄 [Project Report →](./EV_Project_Report.pdf)
+### 🌐 [Live Tableau Dashboard →](https://public.tableau.com/views/EVChargingDemandForecastingTableaudashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) &nbsp;·&nbsp; 📓 [View Notebook →](./EV_Charging_Notebook.ipynb) &nbsp;·&nbsp; 📄 [Project Report →](./EV_Project_Report.pdf)
 
 <br/>
 
